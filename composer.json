@@ -1,0 +1,19 @@
+{
+    "name": "vjoxyodo/useful-functions",
+    "description": "Useful functions to use in projects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oxyodo",
+            "email": "vjoxyodo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-0": {
+            "UsefulFunctions": "src/"
+        }
+    }
+}
