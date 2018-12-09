@@ -9,7 +9,7 @@
             "email": "vjoxyodo@gmail.com"
         }
     ],
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "vjoxyodo/useful-functions": "dev-master"
